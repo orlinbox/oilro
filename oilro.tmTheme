@@ -19,7 +19,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#192020</string>
+				<string>#203030</string>
 				<key>caret</key>
 				<string>#f6f6f6</string>
 				<key>foreground</key>
@@ -31,7 +31,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>selection</key>
 				<string>#9fb50040</string>
 				<key>findHighlight</key>
-				<string>#e6db74</string>
+				<string>#e3cd9e</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>selectionBorder</key>
@@ -71,7 +71,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e6db74</string>
+				<string>#e3cd9e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,7 +214,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffbb29</string>
+				<string>f7e864</string>
 			</dict>
 		</dict>
 		<dict>
@@ -227,7 +227,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffbb29</string>
+				<string>f7e864</string>
 			</dict>
 		</dict>
 		<dict>
@@ -342,7 +342,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#e3cd9f</string>
+				<string>#e3cd9f66</string>
 				<key>foreground</key>
 				<string>#f6f6f6</string>
 			</dict>
@@ -400,7 +400,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffbb29</string>
+				<string>f7e864</string>
 			</dict>
 		</dict>
 		<dict>
@@ -565,7 +565,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e6db74</string>
+				<string>#e3cd9e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -583,7 +583,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e6db74</string>
+				<string>#e3cd9e</string>
 			</dict>
 		</dict>
 
