@@ -27,7 +27,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>invisibles</key>
 				<string>#3a3a3a</string>
 				<key>lineHighlight</key>
-				<string>#3d3d3d</string>
+				<string>#405050</string>
 				<key>selection</key>
 				<string>#9fb50040</string>
 				<key>findHighlight</key>
