@@ -29,9 +29,9 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>lineHighlight</key>
 				<string>#405050</string>
 				<key>selection</key>
-				<string>#9fb50040</string>
+				<string>#59c0e340</string>
 				<key>findHighlight</key>
-				<string>#e3cd9e</string>
+				<string>#e3cd9f</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>selectionBorder</key>
@@ -71,7 +71,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e3cd9e</string>
+				<string>#f1e7d0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -565,7 +565,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e3cd9e</string>
+				<string>#f1e7d0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -583,7 +583,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e3cd9e</string>
+				<string>#f1e7d0</string>
 			</dict>
 		</dict>
 
