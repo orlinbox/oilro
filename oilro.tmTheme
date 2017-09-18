@@ -585,7 +585,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f1e7d0</string>
+				<string>#ffa500</string>
 			</dict>
 		</dict>
 
