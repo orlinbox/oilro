@@ -19,17 +19,17 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#203030</string>
+				<string>#1a2a2a</string>
 				<key>caret</key>
 				<string>#f6f6f6</string>
 				<key>foreground</key>
-				<string>#f6f6f6</string>
+				<string>#dddddd</string>
 				<key>invisibles</key>
 				<string>#3a3a3a</string>
 				<key>lineHighlight</key>
 				<string>#405050</string>
 				<key>selection</key>
-				<string>#59c0e340</string>
+				<string>#59c0e32a</string>
 				<key>findHighlight</key>
 				<string>#e3cd9f</string>
 				<key>findHighlightForeground</key>
@@ -60,9 +60,9 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffa500</string>
+				<string>#ff9900</string>
 				<key>background</key>
-				<string>#00000010</string>
+				<string>#00000020</string>
 			</dict>
 		</dict>
 		<dict>
@@ -73,7 +73,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f1e7d0</string>
+				<string>#667879</string>
 			</dict>
 		</dict>
 		<dict>
@@ -190,7 +190,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#a8dff0</string>
+				<string>#3dc9f5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -203,7 +203,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#a8dff0</string>
+				<string>#3dc9f5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -242,7 +242,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#59c0e3</string>
+				<string>#3c8392</string>
 			</dict>
 		</dict>
 		<dict>
@@ -255,7 +255,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#a8dff0</string>
+				<string>#3dc9f5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -556,7 +556,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a8dff0</string>
+				<string>#3dc9f5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -585,7 +585,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffa500</string>
+				<string>#ff9900</string>
 			</dict>
 		</dict>
 
